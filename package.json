@@ -1,0 +1,23 @@
+{
+  "name": "gulp-app-manifest",
+  "version": "1.0.0",
+  "description": "cordova-app-loader manifest generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuckoohello/gulp-app-manifest"
+  },
+  "keywords": [
+    "cordova-app-loader",
+    "gulp"
+  ],
+  "author": "Yafeng Shan",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through": "^2.3.8"
+  }
+}
